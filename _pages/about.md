@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+## Welcome 
 
 I am a PhD student in [political science](https://polisci.la.psu.edu/) at the [Pennsylvania State University](https://www.psu.edu/).  Prior to Penn State, I was a consultant and research assistant at the [Center for Global Development](https://www.cgdev.org/) in Washington D.C. My research interests includes political economy of development, with a special focus on foreign aid, political violence, state building, and international cooperation. I hold a MPA in International Development (MPA/ID) degree from [Brooks School of Public Policy](https://publicpolicy.cornell.edu/) at [Cornell University](https://www.cornell.edu/), where I was also a graduate fellow at the [Reppy Institute for Peace and Conflict Studies](https://einaudi.cornell.edu/programs/reppy-institute-peace-and-conflict-studies) and the [Emerging Market Program](https://emergingmarkets.dyson.cornell.edu/). 
 
