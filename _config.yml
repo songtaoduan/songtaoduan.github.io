@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Songtao Duan"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Songtao Duan"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "songtaoduan/songtaoduan.github.io"
 author:
   # Biographic information
   avatar           : "duan_profile.png"
-  name             : " "
+  name             : " Songtao Duan "
   pronouns         : "he/him"  
   bio              : "PhD Student in Political Science"
   location         : "State College, PA, United States"
