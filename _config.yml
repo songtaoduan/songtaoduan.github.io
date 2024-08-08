@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Songtao Duan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Songtao Duan"
 description              : &description "personal description"
-url                      : https://songtaoduan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://songtaoduan.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "songtaoduan/songtaoduan.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "duan_profile.png"
   name             : " "
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Political Science"
   location         : "State College, PA, United States"
   employer         : "Pennsylvania State University"
   uri              : # URL
