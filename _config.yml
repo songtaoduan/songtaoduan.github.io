@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "duan_profile.png"
   name             : " Songtao Duan "
-  pronouns         : "he/him"  
+  pronouns         : # " "  
   bio              : "PhD Student in Political Science"
   location         : "State College, PA, United States"
   employer         : "Pennsylvania State University"
