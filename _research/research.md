@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Work in progress
-* Revival Projects in International Development: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/), University of Hong Kong)
-* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://hansbethehouse.cornell.edu/people/biographies/zinab-attai), Cornell University)
+* Revival Projects in International Development: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/))
+* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://hansbethehouse.cornell.edu/people/biographies/zinab-attai))
 * From Text to Behaviors: Analysis of Chinese Foreign Aid Discourse and Allocation (1960-2020)  
 
 ## Policy paper
