@@ -7,14 +7,16 @@ redirect_from:
   - /research
 ---
 
-## Publications
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
-
-
-## Work in Progress
-The contents above will be part of a list of work in progress, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Work in progress
+* Revival Projects in International Development: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/), University of Hong Kong)
+* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://hansbethehouse.cornell.edu/people/biographies/zinab-attai), Cornell University)
+* From Text to Behaviors: Analysis of Chinese Foreign Aid Discourse and Allocation (1960-2020)  
 
 ## Policy paper
-The contents above will be part of a list of policy papers, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+* Promoting Private Investment in Fragile and Conflict-affected Situations. How well did the World Bank do? (Center for Global Development)
 
-
+## Research Assistant
+* China's 20th-Century Global Development Projects. ([Austin Strange](https://www.austinstrange.org/), HKU)
+* Mapping Apiculture Information Networks. ([Fridah Mubichi-Kut](https://business.cornell.edu/faculty-research/faculty/mfm96/), Cornell)
+* Democratic Threats and Resilience. ([Rachel Beatty Riedl](https://government.cornell.edu/rachel-beatty-riedl), Cornell)
+  
