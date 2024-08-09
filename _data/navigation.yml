@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About"
-    url: "https://songtaoduan.github.io/"
+    url: /about/
     
   - title: "Research"
     url: /research/
