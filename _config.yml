@@ -26,7 +26,8 @@ author:
   pronouns         : # " "  
   bio              : "PhD Student in Political Science"
   location         : "State College, PA, United States"
-  employer         : "Pennsylvania State University"
+  #employer         : "Pennsylvania State University"
+  employer: '<a href="https://www.psu.edu/" style="text-decoration:none; color:inherit;">Pennsylvania State University</a>'
   uri              : # URL
   email            : "sduan@psu.edu" 
 
