@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-## Work in progress
+## Work in Progress
 * Revival Projects in International Development: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/))
     * <span style="font-size: 14px;">*Abstract:* How do historical interactions between states affect their contemporary relations? We
 examine this broader question in the context of Chinese overseas development projects.
@@ -65,7 +65,7 @@ for beneficiary countries and other creditors on whether official discourse can 
 for analyzing Chinese aid policy.
 
 
-## Policy paper
+## Policy Paper
 * Promoting Private Investment in Fragile and Conflict-affected Situations. How well did the World Bank do? (Center for Global Development)
 
 ## Research Assistant
