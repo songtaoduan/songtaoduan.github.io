@@ -70,6 +70,6 @@ for analyzing Chinese aid policy.
 
 ## Research Assistant
 * China's 20th-Century Global Development Projects. ([Austin Strange](https://www.austinstrange.org/), HKU)
-* Mapping Apiculture Information Networks. ([Fridah Mubichi-Kut](https://business.cornell.edu/faculty-research/faculty/mfm96/), Cornell)
+* Mapping Apiculture Information Networks in Eastern Rwanda. ([Fridah Mubichi-Kut](https://business.cornell.edu/faculty-research/faculty/mfm96/), Cornell)
 * Democratic Threats and Resilience. ([Rachel Beatty Riedl](https://government.cornell.edu/rachel-beatty-riedl), Cornell)
   
