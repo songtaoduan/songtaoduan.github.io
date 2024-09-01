@@ -1,5 +1,5 @@
 ---
-title: "AEM 5415: Field Research and Pre-Engagement with Social Enterprises in Emerging Markets"
+title: "AEM 4415/5415: Field Research and Pre-Engagement with Social Enterprises in Emerging Markets"
 collection: teaching
 type: "Guest Lecture"
 permalink: /teaching/2023-fall-teaching-1 
@@ -13,4 +13,4 @@ location: "Ithaca, New York"
 
 ### Course Description
 
-[AEM 5415](https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415) prepares students for engaged-learning opportunities that include working with diverse community partners e.g., small and medium enterprises, NGOs, universities, and public agencies in emerging markets. This course comprises two sections: 1. Field research methods, which provide students with a strong theoretical grounding on how to collect and report primary data in publishable works (e.g., case studies). 2. Development of field safety, research protocols and client pre-engagement opportunities for students who have successfully been selected to participate in the Student Multidisciplinary Applied Research Teams (SMART) projects. 
+[AEM 4415/ 5415](https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415) prepares students for engaged-learning opportunities that include working with diverse community partners e.g., small and medium enterprises, NGOs, universities, and public agencies in emerging markets. This course comprises two sections: 1. Field research methods, which provide students with a strong theoretical grounding on how to collect and report primary data in publishable works (e.g., case studies). 2. Development of field safety, research protocols and client pre-engagement opportunities for students who have successfully been selected to participate in the Student Multidisciplinary Applied Research Teams (SMART) projects. 
