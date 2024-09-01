@@ -8,7 +8,7 @@ date: 2023-10-19
 location: "Ithaca, New York"
 ---
 
-
+---
 
 Course Description
 ======
