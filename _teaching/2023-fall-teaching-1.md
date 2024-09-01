@@ -2,7 +2,7 @@
 title: "AEM 5415: Field Research and Pre-Engagement with Social Enterprises in Emerging Markets"
 collection: teaching
 type: "Guest Lecture"
-permalink: /teaching/2014-spring-teaching-1 
+permalink: /teaching/2023-spring-teaching-1 
 venue: "Cornell University, Dyson School of Applied Economics and Management"
 date: 2023-10-19
 location: "Ithaca, New York"
