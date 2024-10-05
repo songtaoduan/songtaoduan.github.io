@@ -11,9 +11,7 @@ redirect_from:
 * Revival Projects in International Development: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/))
     * <span style="font-size: 14px;">*Abstract:* How do historical interactions between states affect their contemporary relations? We
 examine this broader question in the context of Chinese overseas development projects.
-We examine Chinese-financed and built infrastructure projects that the Chinese gov-
-ernment has “revived” in recent years. China’s contemporary infrastructure drive and
-the Belt and Road Initiative have attracted intense scrutiny. But China’s government
+We examine Chinese-financed and built infrastructure projects that the Chinese government has “revived” in recent years. China’s contemporary infrastructure drive and the Belt and Road Initiative have attracted intense scrutiny. But China’s government
 also financed several hundred infrastructure projects in dozens of developing regions be-
 tween 1949 and 1999. We theorize that revival projects have multiple political functions
 that explain China’s willingness to spend resources revitalizing and branding them. To
@@ -29,7 +27,7 @@ a new donor or lender in international development, and our study helps illumina
 the contemporary political logic of historical development cooperation between China
 and host countries. 
 
-* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://hansbethehouse.cornell.edu/people/biographies/zinab-attai))
+* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://government.cornell.edu/zinab-attai))
     * <span style="font-size: 14px;">*Abstract:* Post World War II, the U.S. has been the most prolific intervener in intra-state conflicts.
 This intervention is often to provide COIN support to weak, conflict-affected states.
 Despite the prevalence of U.S. COIN support in the international system, there has
