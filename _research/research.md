@@ -67,7 +67,8 @@ for analyzing Chinese aid policy.
 * Promoting Private Investment in Fragile and Conflict-affected Situations. How well did the World Bank do? (Center for Global Development)
 
 ## Research Assistant
-* Female Leaders, Conflict-Affected Rural Zones, and Civic Engagement ([Bumba Mukherjee](https://sites.psu.edu/bumbamukherjee/), PSU)
+* Female Leaders, Conflict-Affected Rural Zones, and Civic Engagement. ([Bumba Mukherjee](https://sites.psu.edu/bumbamukherjee/), PSU)
+* Deep Causal Learning and Estimation of Treatment Effects. ([Bumba Mukherjee](https://sites.psu.edu/bumbamukherjee/), PSU)
 * China's 20th-Century Global Development Projects. ([Austin Strange](https://www.austinstrange.org/), HKU)
 * Mapping Apiculture Information Networks in Eastern Rwanda. ([Fridah Mubichi-Kut](https://business.cornell.edu/faculty-research/faculty/mfm96/), Cornell)
 * Democratic Threats and Resilience. ([Rachel Beatty Riedl](https://government.cornell.edu/rachel-beatty-riedl), Cornell)
