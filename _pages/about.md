@@ -12,4 +12,4 @@ I am a PhD student in [political science](https://polisci.la.psu.edu/people/duan
 
 My research interests include political economy of development, with a focus on foreign aid, political violence, state building, and multilateral development organizations.  My work has been supported by the  Miller-LaVigne Distinguished Graduate Fellowship, Cornell Institute for African Development, Cornell Southeast Asia Program, Einaudi Center for International Studies, Einhorn Center for Community Engagement, and Brooks School of Public Policy Opportunity Grant.  
 
-For inquiries, please reach out to me at [sduan@psu.edu](mailto:sduan@psu.edu), or connect with me on Twitter [@duan_songtao](https://twitter.com/duan_songtao).
+For inquiries, please reach out to me at [sduan@psu.edu](mailto:sduan@psu.edu), or connect with me on Bluesky [@sudan.bsky.social](https://bsky.app/profile/sduan.bsky.social).
