@@ -22,11 +22,11 @@ repository               : "songtaoduan/songtaoduan.github.io"
 author:
   # Biographic information
   avatar           : "duan_profile.png"
-  name             : " Songtao Duan "
+  name             : "Songtao Duan "
   pronouns         : # " "  
-  bio              : "PhD Student in Political Science"
-  location         : "State College, PA, United States"
-  employer         : "Pennsylvania State University"
+  bio              : "PhD student in Political Science"
+  location         : "University Park, PA"
+  employer         : "Penn State University"
   #employer: '<a href="https://www.psu.edu/" style="text-decoration:none; color:inherit;">Penn State University</a>'
   uri              : # URL
   email            : "sduan@psu.edu" 
