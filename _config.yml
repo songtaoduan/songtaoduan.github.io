@@ -24,8 +24,8 @@ author:
   avatar           : "duan_profile.png"
   name             : "Songtao Duan "
   pronouns         : # " "  
-  bio              : "PhD student in Political Science"
-  location         : "State College, PA, United States"
+  bio              : "PhD student"
+  location         : "University Park, PA, USA"
   employer         : "Penn State University"
   #employer: '<a href="https://www.psu.edu/" style="text-decoration:none; color:inherit;">Penn State University</a>'
   uri              : # URL
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "sduan.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
