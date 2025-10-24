@@ -21,7 +21,7 @@ repository               : "songtaoduan/songtaoduan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Duan_headshot.png"
+  avatar           : "Duan_headshot.jpg"
   name             : "Songtao Duan "
   pronouns         : # " "  
   bio              : "PhD Student in Political Science"
