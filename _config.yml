@@ -12,7 +12,7 @@ title                    : "SONGTAO DUAN"
 title_separator          : "-"
 name                     : &name "Songtao Duan"
 description              : &description "personal description"
-url                      : "https://songtaoduan.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://songtaoduan.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "songtaoduan/songtaoduan.github.io"
 
