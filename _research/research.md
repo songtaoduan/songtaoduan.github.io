@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 ## Work in Progress
-* Historical Aid as Contemporary Diplomacy: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/)). <u>Revise and Resubmit</u>, *Review of International Political Economy*
+* Historical Aid as Contemporary Diplomacy: Evidence from Chinese Global Infrastructure since 1949 (with Austin Strange). <u>Revise and Resubmit</u>, *Review of International Political Economy*
 
-* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://government.cornell.edu/zinab-attai))
+* Huynh, Nguyen, Vineeta Yadav, Songtao Duan, and Bumba Mukherjee. “Leaders, Community Cooperation, and Post-Conflict Reconstruction: Evidence from Lab-in-the-field and Survey Experiments in India.”
+
+* Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with Zinab Attai)
 
 * From Text to Behavior: Analysis of Chinese Foreign Aid Discourse and Allocation (1960-2020)  
 
