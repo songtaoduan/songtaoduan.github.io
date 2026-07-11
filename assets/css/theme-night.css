@@ -1,0 +1,250 @@
+/* ==========================================================================
+   Night mode for academicpages / Minimal Mistakes
+   Activated by html[data-theme="dark"] (set by script in _includes/head.html)
+   ========================================================================== */
+
+/* ---- Theme toggle button (visible in both modes) ---- */
+/* Lives outside #site-nav so the greedy-nav script ignores it */
+.masthead__menu {
+  position: relative;
+}
+
+.masthead .theme-toggle {
+  position: absolute;
+  right: 3rem;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 2.5rem;
+  width: 2.5rem;
+  padding: 0;
+  border: 0;
+  outline: none;
+  background: transparent;
+  color: #7a8288;
+  font-size: 1.1rem;
+  line-height: 2.5rem;
+  cursor: pointer;
+  z-index: 101;
+}
+
+.masthead .theme-toggle:hover {
+  color: #494e51;
+}
+
+.theme-toggle .icon-sun { display: none; }
+.theme-toggle .icon-moon { display: inline; }
+
+html[data-theme="dark"] .theme-toggle .icon-sun { display: inline; }
+html[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+
+/* ---- Global ---- */
+html[data-theme="dark"],
+html[data-theme="dark"] body {
+  background-color: #16181a;
+  color: #c9cdd1;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color: #e4e7ea;
+}
+
+html[data-theme="dark"] a { color: #6fc0dc; }
+html[data-theme="dark"] a:hover { color: #9ad4e8; }
+html[data-theme="dark"] a:visited { color: #5aa3bd; }
+
+html[data-theme="dark"] blockquote {
+  color: #a5abb0;
+  border-left-color: #3a3f43;
+}
+
+html[data-theme="dark"] hr { border-color: #33383c; }
+
+html[data-theme="dark"] ::selection {
+  background: #3a5f70;
+  color: #fff;
+}
+
+/* ---- Masthead & navigation ---- */
+html[data-theme="dark"] .masthead {
+  background-color: #16181a;
+  border-bottom-color: #33383c;
+}
+
+html[data-theme="dark"] .greedy-nav {
+  background: #16181a;
+}
+
+html[data-theme="dark"] .greedy-nav a {
+  color: #c9cdd1;
+}
+
+html[data-theme="dark"] .greedy-nav a:hover {
+  color: #ffffff;
+}
+
+html[data-theme="dark"] .greedy-nav .visible-links a:before {
+  background: #6fc0dc;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links {
+  background: #222629;
+  border-color: #3a3f43;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links::before {
+  border-color: transparent transparent #222629 transparent;
+}
+
+html[data-theme="dark"] .greedy-nav .hidden-links a:hover {
+  background: #2d3235;
+}
+
+html[data-theme="dark"] .masthead .theme-toggle {
+  color: #c9cdd1;
+}
+
+html[data-theme="dark"] .masthead .theme-toggle:hover {
+  color: #fff;
+}
+
+/* ---- Sidebar / author profile ---- */
+html[data-theme="dark"] .author__name { color: #e4e7ea; }
+html[data-theme="dark"] .author__bio,
+html[data-theme="dark"] .author__content { color: #c9cdd1; }
+
+html[data-theme="dark"] .author__urls {
+  background: #222629;
+  border-color: #3a3f43;
+  color: #c9cdd1;
+}
+
+html[data-theme="dark"] .author__urls::before {
+  border-color: transparent transparent #3a3f43 transparent;
+}
+
+html[data-theme="dark"] .author__urls::after {
+  border-color: transparent transparent #222629 transparent;
+}
+
+html[data-theme="dark"] .author__urls a { color: #c9cdd1; }
+
+/* ---- Page content ---- */
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .page__meta,
+html[data-theme="dark"] .page__date,
+html[data-theme="dark"] .archive__item-excerpt {
+  color: #c9cdd1;
+}
+
+html[data-theme="dark"] .page__content h1,
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .page__content h3,
+html[data-theme="dark"] .page__content h4,
+html[data-theme="dark"] .archive__item-title,
+html[data-theme="dark"] .archive__subtitle {
+  color: #e4e7ea;
+}
+
+html[data-theme="dark"] .page__content h2,
+html[data-theme="dark"] .archive__subtitle {
+  border-bottom-color: #33383c;
+}
+
+html[data-theme="dark"] .archive__item-title a { color: #e4e7ea; }
+html[data-theme="dark"] .archive__item-title a:hover { color: #9ad4e8; }
+
+html[data-theme="dark"] .pagination--pager {
+  color: #c9cdd1;
+  border-color: #3a3f43;
+}
+
+html[data-theme="dark"] .pagination--pager:hover {
+  background-color: #2d3235;
+  color: #fff;
+}
+
+/* ---- Footer ---- */
+html[data-theme="dark"] .page__footer {
+  background-color: #1d2023;
+  color: #a5abb0;
+}
+
+html[data-theme="dark"] .page__footer footer { color: #a5abb0; }
+html[data-theme="dark"] .page__footer a { color: #c9cdd1; }
+html[data-theme="dark"] .page__footer-copyright { color: #82888d; }
+
+/* ---- Code ---- */
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre,
+html[data-theme="dark"] .highlight {
+  background-color: #222629;
+  color: #d7dbdf;
+}
+
+html[data-theme="dark"] div.highlighter-rouge,
+html[data-theme="dark"] figure.highlight {
+  background-color: #222629;
+}
+
+/* ---- Tables ---- */
+html[data-theme="dark"] table {
+  background-color: #1d2023;
+  color: #c9cdd1;
+  border-color: #33383c;
+}
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-color: #33383c;
+}
+
+html[data-theme="dark"] th {
+  background-color: #26292c;
+}
+
+html[data-theme="dark"] tr:nth-child(even) {
+  background-color: #202427;
+}
+
+/* ---- Forms, buttons, misc ---- */
+html[data-theme="dark"] input,
+html[data-theme="dark"] textarea,
+html[data-theme="dark"] select {
+  background-color: #222629;
+  color: #c9cdd1;
+  border-color: #3a3f43;
+}
+
+html[data-theme="dark"] .notice,
+html[data-theme="dark"] .notice--primary,
+html[data-theme="dark"] .notice--info,
+html[data-theme="dark"] .notice--warning,
+html[data-theme="dark"] .notice--success,
+html[data-theme="dark"] .notice--danger {
+  background-color: #222629 !important;
+  color: #c9cdd1 !important;
+}
+
+html[data-theme="dark"] .well {
+  background-color: #222629;
+  border-color: #3a3f43;
+}
+
+html[data-theme="dark"] img {
+  opacity: 0.9;
+}
+
+/* Smooth transition when toggling */
+body,
+.masthead,
+.greedy-nav,
+.page__footer,
+.author__urls {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
