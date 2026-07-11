@@ -3,32 +3,11 @@
    Activated by html[data-theme="dark"] (set by script in _includes/head.html)
    ========================================================================== */
 
-/* ---- Theme toggle button (visible in both modes) ---- */
-/* Lives outside #site-nav so the greedy-nav script ignores it */
-.masthead__menu {
-  position: relative;
-}
-
-.masthead .theme-toggle {
-  position: absolute;
-  right: 3rem;
-  top: 50%;
-  transform: translateY(-50%);
-  height: 2.5rem;
-  width: 2.5rem;
-  padding: 0;
-  border: 0;
-  outline: none;
-  background: transparent;
-  color: #7a8288;
-  font-size: 1.1rem;
-  line-height: 2.5rem;
+/* ---- Theme toggle (menu item, sits after the last nav link) ---- */
+/* Rendered as an <a> so the greedy-nav script's `#site-nav button`
+   selector ignores it and the mobile menu keeps working. */
+.greedy-nav a.theme-toggle {
   cursor: pointer;
-  z-index: 101;
-}
-
-.masthead .theme-toggle:hover {
-  color: #494e51;
 }
 
 .theme-toggle .icon-sun { display: none; }
@@ -104,19 +83,12 @@ html[data-theme="dark"] .greedy-nav .hidden-links a:hover {
   background: #2d3235;
 }
 
-html[data-theme="dark"] .masthead .theme-toggle {
-  color: #c9cdd1;
-}
-
-html[data-theme="dark"] .masthead .theme-toggle:hover {
-  color: #fff;
-}
-
 /* ---- Sidebar / author profile ---- */
 html[data-theme="dark"] .author__name { color: #e4e7ea; }
 html[data-theme="dark"] .author__bio,
 html[data-theme="dark"] .author__content { color: #c9cdd1; }
 
+/* On small screens the urls list is a dropdown card; style it dark */
 html[data-theme="dark"] .author__urls {
   background: #222629;
   border-color: #3a3f43;
@@ -129,6 +101,15 @@ html[data-theme="dark"] .author__urls::before {
 
 html[data-theme="dark"] .author__urls::after {
   border-color: transparent transparent #222629 transparent;
+}
+
+/* On large screens it's a plain list in the sidebar - no card background */
+@media (min-width: 1200px) {
+  html[data-theme="dark"] .author__urls {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+  }
 }
 
 html[data-theme="dark"] .author__urls a { color: #c9cdd1; }
