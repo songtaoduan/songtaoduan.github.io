@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Work in Progress
-* Historical Aid as Contemporary Diplomacy: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/))
+* Historical Aid as Contemporary Diplomacy: Evidence from Chinese Global Infrastructure since 1949 (with [Austin Strange](https://www.austinstrange.org/)). <u>Revise and Resubmit</u>, *Review of International Political Economy*
 
 * Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention (with [Zinab Attai](https://government.cornell.edu/zinab-attai))
 
