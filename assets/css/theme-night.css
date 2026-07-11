@@ -114,6 +114,15 @@ html[data-theme="dark"] .author__urls::after {
 
 html[data-theme="dark"] .author__urls a { color: #c9cdd1; }
 
+/* Icons that are black/near-black in the light theme (university, GitHub)
+   - lighten to match the inherited icon color (e.g. email) */
+html[data-theme="dark"] .social-icons .fa,
+html[data-theme="dark"] .social-icons .fa-github,
+html[data-theme="dark"] .social-icons .fa-github-alt,
+html[data-theme="dark"] .social-icons .fa-github-square {
+  color: #c9cdd1;
+}
+
 /* ---- Page content ---- */
 html[data-theme="dark"] .page__title,
 html[data-theme="dark"] .page__content,
