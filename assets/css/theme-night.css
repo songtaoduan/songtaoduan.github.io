@@ -88,10 +88,11 @@ html[data-theme="dark"] .author__name { color: #e4e7ea; }
 html[data-theme="dark"] .author__bio,
 html[data-theme="dark"] .author__content { color: #c9cdd1; }
 
-/* On small screens the urls list is a dropdown card; style it dark */
+/* Below 1200px the urls list is styled as a card; match the page
+   background so it blends, exactly like white-on-white in light mode */
 html[data-theme="dark"] .author__urls {
-  background: #222629;
-  border-color: #3a3f43;
+  background: #16181a;
+  border-color: #33383c;
   color: #c9cdd1;
 }
 
@@ -100,7 +101,7 @@ html[data-theme="dark"] .author__urls::before {
 }
 
 html[data-theme="dark"] .author__urls::after {
-  border-color: transparent transparent #222629 transparent;
+  border-color: transparent transparent #16181a transparent;
 }
 
 /* On large screens it's a plain list in the sidebar - no card background */
