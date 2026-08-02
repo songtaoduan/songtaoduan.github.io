@@ -231,6 +231,15 @@ html[data-theme="dark"] img {
   opacity: 0.9;
 }
 
+/* ---- Layout tweak (both modes): more breathing room between the fixed
+   sidebar and the main text on mid-size windows ---- */
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .page,
+  .archive {
+    padding-left: 2.5em;
+  }
+}
+
 /* Smooth transition when toggling */
 body,
 .masthead,
