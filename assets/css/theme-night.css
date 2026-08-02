@@ -231,6 +231,18 @@ html[data-theme="dark"] img {
   opacity: 0.9;
 }
 
+/* ---- Layout tweak (both modes): push page content down a bit ---- */
+#main {
+  margin-top: 3.5em;
+}
+
+/* keep the fixed sidebar (photo + info) aligned with the lowered content */
+@media (min-width: 1024px) {
+  .sidebar {
+    padding-top: calc(70px + 1.5em);
+  }
+}
+
 /* ---- Layout tweak (both modes): more breathing room between the fixed
    sidebar and the main text on mid-size windows ---- */
 @media (min-width: 1024px) and (max-width: 1199px) {
