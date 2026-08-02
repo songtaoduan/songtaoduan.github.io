@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="border-bottom: none;">Welcome</h2>
+<h2 style="border-bottom: none;">Welcome!</h2>
 
 I am a PhD student in [political science](https://polisci.la.psu.edu/people/duan-songtao/) and [social data analytics](https://soda.la.psu.edu/) at the Pennsylvania State University. Prior to Penn State, I was a consultant and research assistant at the [Center for Global Development](https://www.cgdev.org/) in Washington D.C. I was also a graduate fellow at the [Reppy Institute for Peace and Conflict Studies](https://einaudi.cornell.edu/programs/reppy-institute-peace-and-conflict-studies) and the [Emerging Market Program](https://emergingmarkets.dyson.cornell.edu/smart/smart-2022-23/) at Cornell University.
 
