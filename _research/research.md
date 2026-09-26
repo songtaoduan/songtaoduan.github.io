@@ -26,9 +26,3 @@ redirect_from:
 * Chinese Contractors and Development Project Quality. 2025. CGD Working Paper 715 (with Charles Kenny & Zack Gehan)
 
 
-## Research Assistant
-* Female Leaders, Conflict-Affected Rural Zones, and Civic Engagement. ([Bumba Mukherjee](https://sites.psu.edu/bumbamukherjee/), PSU)
-* China's 20th-Century Global Development Projects. ([Austin Strange](https://www.austinstrange.org/), HKU)
-* Mapping Apiculture Information Networks in Eastern Rwanda. ([Fridah Mubichi-Kut](https://business.cornell.edu/faculty-research/faculty/mfm96/), Cornell)
-* Democratic Threats and Resilience. ([Rachel Beatty Riedl](https://government.cornell.edu/rachel-beatty-riedl), Cornell)
-
