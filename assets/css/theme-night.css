@@ -240,6 +240,13 @@ html[data-theme="dark"] img {
   }
 }
 
+/* ---- Sidebar: center name under the photo (desktop layout) ---- */
+@media (min-width: 1024px) {
+  .sidebar .author__name {
+    text-align: center;
+  }
+}
+
 /* Smooth transition when toggling */
 body,
 .masthead,
