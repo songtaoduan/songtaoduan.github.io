@@ -242,7 +242,10 @@ html[data-theme="dark"] img {
 
 /* ---- Sidebar: center name under the photo (desktop layout) ---- */
 @media (min-width: 1024px) {
+  /* The photo is capped at 175px and left-aligned, so center the name
+     within that same 175px box rather than the full sidebar width */
   .sidebar .author__name {
+    max-width: 175px;
     text-align: center;
   }
 }
