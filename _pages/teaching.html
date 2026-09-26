@@ -5,8 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+  .teach-inst { font-style: italic; margin: 1.5em 0 0.4em; }
+  .teach-row { display: grid; grid-template-columns: 5em 1fr 11em; column-gap: 1em; }
+  @media (max-width: 600px) { .teach-row { grid-template-columns: 4em 1fr; } .teach-row span:last-child { grid-column: 2; } }
+</style>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<p class="teach-inst">Penn State University</p>
+<div class="teach-row">
+  <span>2026</span>
+  <span>PLSC 14 Introduction to International Relations</span>
+  <span>Teaching Assistant</span>
+</div>
+
+<p class="teach-inst">Cornell University</p>
+<div class="teach-row">
+  <span>2023</span>
+  <span><a href="https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415">AEM 4415/5415 Field Research in Emerging Markets</a></span>
+  <span>Guest Lecturer</span>
+</div>
