@@ -22,7 +22,8 @@ redirect_from:
 
 
 ## Policy Writing
-* Promoting Private Investment in Fragile and Conflict-affected Situations. How well did the World Bank do? (Center for Global Development)
-* Chinese Contractors and Development Project Quality. 2025. CGD Working Paper 715 (with Charles Kenny & Zack Gehan)
+* “Promoting Private Investment in Fragile and Conflict-Affected Situations: How Well Did the World Bank Do?” *Center for Global Development*.
+
+* “Chinese Contractors and Development Project Quality.” 2025. *CGD Working Paper 715*, with Charles Kenny and Zack Gehan.
 
 
