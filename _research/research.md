@@ -18,7 +18,7 @@ redirect_from:
 
 
 ## Dissertation Project
-* “Aid, Civilian Attitudes, and Post-Conflict Reconstruction.”
+* “Aid, Civilian Attitudes, and Post-Conflict Reconstruction: Evidence from Field Experiments in the Philippines.”
 
 
 ## Policy Writing
