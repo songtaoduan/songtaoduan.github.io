@@ -22,3 +22,26 @@
     </div>
   </div>
 </div>
+
+<script>
+  /* Align the first menu link ("About") with the left edge of the main text.
+     Only applies when the sidebar sits beside the content (>= 1024px wide). */
+  (function () {
+    function align() {
+      var title = document.querySelector('#site-nav .visible-links li:first-child');
+      var about = document.querySelector('#site-nav .visible-links li:nth-child(2) a');
+      var main = document.querySelector('#main .page__content, #main .archive');
+      if (!title || !about || !main) return;
+      title.style.paddingRight = '';                     // reset to theme default
+      if (window.innerWidth < 1024) return;
+      var first = main.firstElementChild || main;
+      var shift = first.getBoundingClientRect().left - about.getBoundingClientRect().left;
+      var current = parseFloat(getComputedStyle(title).paddingRight) || 0;
+      var next = current + shift;
+      if (next > 0) title.style.paddingRight = next + 'px';
+    }
+    document.addEventListener('DOMContentLoaded', align);
+    window.addEventListener('load', align);
+    window.addEventListener('resize', align);
+  })();
+</script>
