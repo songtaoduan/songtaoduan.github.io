@@ -17,6 +17,10 @@ redirect_from:
 * “Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention.” With Zinab Attai.
 
 
+## Dissertation Project
+* “Aid, Civilian Attitudes, and Post-Conflict Reconstruction.”
+
+
 ## Policy Writing
 * Promoting Private Investment in Fragile and Conflict-affected Situations. How well did the World Bank do? (Center for Global Development)
 * Chinese Contractors and Development Project Quality. 2025. CGD Working Paper 715 (with Charles Kenny & Zack Gehan)
