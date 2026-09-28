@@ -6,21 +6,27 @@ author_profile: true
 ---
 
 <style>
+  .teach-legend { font-size: 0.85em; opacity: 0.8; margin-bottom: 0.5em; }
+  .teach-legend span { margin-right: 1.5em; white-space: nowrap; }
   .teach-inst { font-style: italic; margin: 1.5em 0 0.4em; }
-  .teach-row { display: grid; grid-template-columns: 5em 1fr 11em; column-gap: 1em; }
-  @media (max-width: 600px) { .teach-row { grid-template-columns: 4em 1fr; } .teach-row span:last-child { grid-column: 2; } }
+  .teach-row { display: grid; grid-template-columns: 5em 1fr; column-gap: 1em; margin-bottom: 0.3em; }
+  .teach-role { margin-left: 0.3em; }
 </style>
+
+<p class="teach-legend">
+  <span>† Teaching Assistant</span>
+  <span>★ Guest Lecturer</span>
+  <span>◆ Instructor of Record</span>
+</p>
 
 <p class="teach-inst">Penn State University</p>
 <div class="teach-row">
   <span>2026</span>
-  <span>PLSC 14 Introduction to International Relations</span>
-  <span>Teaching Assistant</span>
+  <span>PLSC 14 Introduction to International Relations<span class="teach-role" title="Teaching Assistant">†</span></span>
 </div>
 
 <p class="teach-inst">Cornell University</p>
 <div class="teach-row">
   <span>2023</span>
-  <span><a href="https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415">AEM 4415/5415 Field Research in Emerging Markets</a></span>
-  <span>Guest Lecturer</span>
+  <span><a href="https://classes.cornell.edu/browse/roster/FA23/class/AEM/5415">AEM 4415/5415 Field Research in Emerging Markets</a><span class="teach-role" title="Guest Lecturer">★</span></span>
 </div>
