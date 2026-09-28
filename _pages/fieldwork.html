@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Fieldwork"
+permalink: /fieldwork/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+  .fw-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2em; margin-top: 1em; }
+  .fw-grid figure { margin: 0; }
+  .fw-grid img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; display: block; border-radius: 4px; }
+  .fw-grid figcaption { text-align: center; margin-top: 0.5em; font-size: 0.9em; }
+  html[data-theme="dark"] .fw-grid img { opacity: 1; }
+  @media (max-width: 600px) { .fw-grid { grid-template-columns: 1fr; } }
+</style>
+
+<div class="fw-grid">
+  <figure>
+    <img src="{{ base_path }}/images/fieldwork/rwanda.jpg" alt="Street scene in Kigali, Rwanda" loading="lazy">
+    <figcaption>Rwanda (2023)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ base_path }}/images/fieldwork/china.jpg" alt="Asian Infrastructure Investment Bank headquarters, Beijing" loading="lazy">
+    <figcaption>China (2025)</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ base_path }}/images/fieldwork/philippines.jpg" alt="Map of the Philippines highlighting the Bangsamoro autonomous region" loading="lazy">
+    <figcaption>Philippines (2027, planned)</figcaption>
+  </figure>
+</div>
