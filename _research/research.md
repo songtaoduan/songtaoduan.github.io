@@ -22,8 +22,8 @@ redirect_from:
 
 
 ## Policy Writing
-* “Promoting Private Investment in Fragile and Conflict-Affected Situations: How Well Did the World Bank Do?” *Center for Global Development*.
-
 * “Chinese Contractors and Development Project Quality.” 2025. *CGD Working Paper 715*, with Charles Kenny and Zack Gehan.
+
+* “Mapping Apiculture Information Networks in Eastern Rwanda.” 2023. *Technical Report*, Cornell University & Rwanda Agriculture and Animal Resources Development Board, with Fridah Mubichi-Kut, Amal Khalid, Geneva H. Tackie, and Plaxides Njeri.
 
 
