@@ -45,7 +45,7 @@ For inquiries, please reach out to me at [sduan@psu.edu](mailto:sduan@psu.edu), 
 
 </div>
 <div class="home-side">
-  <img class="home-photo" src="/images/Duan_headshot.jpg" alt="Songtao Duan">
+  <img class="home-photo" src="/images/Duan_headshot_display.jpg" alt="Songtao Duan">
   <div class="home-links">
     <a href="mailto:sduan@psu.edu" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
     <a href="https://orcid.org/0009-0009-9833-3711" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
