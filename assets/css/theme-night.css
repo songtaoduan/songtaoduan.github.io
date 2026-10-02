@@ -250,6 +250,17 @@ html[data-theme="dark"] img {
   }
 }
 
+/* ---- Pages without the sidebar: let content use the full width ---- */
+#main:not(:has(.sidebar)) .page,
+#main:not(:has(.sidebar)) .archive {
+  float: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
 /* Smooth transition when toggling */
 body,
 .masthead,
