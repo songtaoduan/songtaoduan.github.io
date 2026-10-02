@@ -257,6 +257,12 @@ html[data-theme="dark"] img {
   letter-spacing: 0.01em;
 }
 
+/* ---- Hide the big page title (Research, Teaching, Fieldwork, CV);
+   the browser-tab title is unaffected ---- */
+.archive > .page__title {
+  display: none;
+}
+
 /* ---- Pages without the sidebar: let content use the full width ---- */
 #main:not(:has(.sidebar)) .page,
 #main:not(:has(.sidebar)) .archive {
