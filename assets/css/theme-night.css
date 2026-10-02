@@ -257,6 +257,29 @@ html[data-theme="dark"] img {
   letter-spacing: 0.01em;
 }
 
+/* ---- More white space around the page (top bar and content move together
+   so the name and text stay lined up) ---- */
+#main {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+@media (min-width: 1024px) {
+  #main,
+  .masthead__inner-wrap {
+    padding-left: 3em !important;
+    padding-right: 3em !important;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1023px) {
+  #main,
+  .masthead__inner-wrap {
+    padding-left: 2em !important;
+    padding-right: 2em !important;
+  }
+}
+
 /* ---- Hide the big page title (Research, Teaching, Fieldwork, CV);
    the browser-tab title is unaffected ---- */
 .archive > .page__title {
