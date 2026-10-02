@@ -1,23 +1,32 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <style>
-  /* Home page only: big rectangular photo on the right, text on the left */
-  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 2.5em; align-items: start; }
+  /* Home page only: no left sidebar; text on the left, large photo + icons on the right */
+  #main .page {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 4em; align-items: start; }
   .home-photo { width: 100%; height: auto; display: block; border-radius: 2px; margin-top: 0.4em; }
-  /* The big photo replaces the small round one in the sidebar on this page */
-  .sidebar .author__avatar { display: none; }
-  .sidebar .author__name { max-width: none !important; text-align: left !important; }
+  .home-links { display: flex; justify-content: center; gap: 1.4em; margin-top: 1em; font-size: 1.35em; }
+  .home-links a { color: #494e51; text-decoration: none; }
+  .home-links a:hover { color: #000; }
+  html[data-theme="dark"] .home-links a { color: #c9cdd1; }
+  html[data-theme="dark"] .home-links a:hover { color: #fff; }
   html[data-theme="dark"] .home-photo { opacity: 1; }
   @media (max-width: 900px) {
-    .home-intro { grid-template-columns: 1fr; }
-    .home-photo { max-width: 260px; grid-row: 1; margin: 0 auto; }
+    .home-intro { grid-template-columns: 1fr; gap: 1.5em; }
+    .home-side { grid-row: 1; max-width: 280px; margin: 0 auto; }
   }
 </style>
 
@@ -33,5 +42,13 @@ My research interests focus on political economy of development, specifically fo
 For inquiries, please reach out to me at [sduan@psu.edu](mailto:sduan@psu.edu), or connect with me on Bluesky [@sduan.bsky.social](https://bsky.app/profile/sduan.bsky.social).
 
 </div>
-<img class="home-photo" src="/images/headshot_rect.jpg" alt="Songtao Duan">
+<div class="home-side">
+  <img class="home-photo" src="/images/headshot_rect.jpg" alt="Songtao Duan">
+  <div class="home-links">
+    <a href="mailto:sduan@psu.edu" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+    <a href="https://orcid.org/0009-0009-9833-3711" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>
+    <a href="https://bsky.app/profile/sduan.bsky.social" aria-label="Bluesky" title="Bluesky"><i class="fab fa-bluesky" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/duan_songtao" aria-label="Twitter" title="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+  </div>
+</div>
 </div>
