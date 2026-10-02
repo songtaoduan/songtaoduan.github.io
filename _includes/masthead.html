@@ -24,21 +24,20 @@
 </div>
 
 <script>
-  /* Align the first menu link ("About") with the left edge of the main text.
-     Only applies when the sidebar sits beside the content (>= 1024px wide). */
+  /* Push the menu (About ... night-mode icon) to the right so its right edge
+     lines up with the right edge of the page content (e.g. the headshot). */
   (function () {
     function align() {
       var title = document.querySelector('#site-nav .visible-links li:first-child');
-      var about = document.querySelector('#site-nav .visible-links li:nth-child(2) a');
+      var last = document.querySelector('#site-nav .visible-links li:last-child');
       var main = document.querySelector('#main .page__content, #main .archive');
-      if (!title || !about || !main) return;
+      var btn = document.querySelector('#site-nav > button');
+      if (!title || !last || !main || title === last) return;
       title.style.paddingRight = '';                     // reset to theme default
-      if (window.innerWidth < 1024) return;
-      var first = main.firstElementChild || main;
-      var shift = first.getBoundingClientRect().left - about.getBoundingClientRect().left;
+      if (btn && !btn.classList.contains('hidden')) return; // menu collapsed: leave alone
+      var shift = main.getBoundingClientRect().right - last.getBoundingClientRect().right - 1;
       var current = parseFloat(getComputedStyle(title).paddingRight) || 0;
-      var next = current + shift;
-      if (next > 0) title.style.paddingRight = next + 'px';
+      if (shift > 0) title.style.paddingRight = (current + shift) + 'px';
     }
     document.addEventListener('DOMContentLoaded', align);
     window.addEventListener('load', align);

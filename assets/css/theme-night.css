@@ -250,6 +250,13 @@ html[data-theme="dark"] img {
   }
 }
 
+/* ---- Larger site name in the top bar ---- */
+.masthead__menu-item--lg a {
+  font-size: 1.45em;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+}
+
 /* ---- Pages without the sidebar: let content use the full width ---- */
 #main:not(:has(.sidebar)) .page,
 #main:not(:has(.sidebar)) .archive {

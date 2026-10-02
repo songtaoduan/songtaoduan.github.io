@@ -16,7 +16,7 @@ redirect_from:
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 4em; align-items: start; }
+  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 4em; align-items: start; }
   .home-photo { width: 100%; height: auto; display: block; border-radius: 2px; margin-top: 0.4em; }
   .home-links { display: flex; justify-content: center; gap: 1.4em; margin-top: 1em; font-size: 1.35em; }
   .home-links a { color: #494e51; text-decoration: none; }
