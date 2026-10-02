@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Policy Writing
-* “Chinese Contractors and Development Project Quality.” 2025. *CGD Working Paper 715*, with Charles Kenny and Zack Gehan.
+* “Chinese Contractors and Development Project Quality.”<sup><a href="https://www.cgdev.org/publication/chinese-contractors-and-development-project-quality">[link]</a></sup> 2025. *CGD Working Paper 715*, with Charles Kenny and Zack Gehan.
 
 * “Mapping Apiculture Information Networks in Eastern Rwanda.” 2023. *Technical Report*, Cornell University & Rwanda Agriculture and Animal Resources Development Board, with Fridah Mubichi-Kut, Amal Khalid, Geneva H. Tackie, and Plaxides Njeri.
 
