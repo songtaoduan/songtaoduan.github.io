@@ -26,7 +26,7 @@ redirect_from:
   html[data-theme="dark"] .home-photo { opacity: 1; }
   @media (max-width: 900px) {
     .home-intro { grid-template-columns: 1fr; gap: 1.5em; }
-    .home-side { grid-row: 1; max-width: 280px; margin: 0 auto; }
+    .home-side { max-width: 280px; margin: 0.5em auto 0; }
   }
 </style>
 
