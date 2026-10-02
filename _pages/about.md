@@ -16,7 +16,7 @@ redirect_from:
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
-  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 4em; align-items: start; }
+  .home-intro { display: grid; grid-template-columns: minmax(0, 1fr) 310px; gap: 4em; align-items: start; }
   /* Original headshot file is shown untouched; the browser just frames it as a
      4:5 rectangle by trimming a little from each side (no re-encoding). */
   .home-photo { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center; display: block; border-radius: 2px; margin-top: 0.4em; }
