@@ -14,7 +14,7 @@ redirect_from:
 
 * “From Text to Behavior: Analysis of Chinese Foreign Aid Discourse and Allocation (1960-2020).”
 
-* “Helping or Hindering? Outcomes of the U.S. Counterinsurgency (COIN) Intervention.” With Zinab Attai.
+* “Helping or Hindering? Legacies of the U.S. Counterinsurgency (COIN) Intervention.” With Zinab Attai.
 
 
 ## Dissertation Project
